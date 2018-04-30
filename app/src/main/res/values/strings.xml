@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PREP 2018</string>
+    <string name="master_login">http://municipiomovil.com/electoral/usuario_login.php</string>
+    <string name="actualizar_datos">http://municipiomovil.com/electoral/actualizar_resultado.php</string>
+</resources>
